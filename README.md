@@ -58,7 +58,7 @@ A case study showing how fragmented operational data can be structured into clea
 
 ---
 
-### 2. AI-Assisted BI Workflow
+### [2. AI-Assisted PowerBI Workflow](https://github.com/jas0nch0i/ai-assisted-powerbi-workflows)
 **A practical framework for accelerating report development and iteration with AI**
 
 This project demonstrates how AI can support dashboard prototyping, documentation, logic refinement, and repeatable BI workflow improvement.
