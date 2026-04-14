@@ -1,115 +1,127 @@
-# Jason Choi | BI & AI Portfolio
+# Jason Choi | Business Intelligence, Analytics & AI Portfolio
 
-Business intelligence, analytics, and AI-enabled automation projects focused on executive reporting, KPI design, workflow optimization, and decision support.
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-blue" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-blue" />
+  <img src="https://img.shields.io/badge/Databricks-Data%20Modeling-blue" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Workflow%20Optimization-blue" />
+  <img src="https://img.shields.io/badge/Executive%20Reporting-Decision%20Support-blue" />
+</p>
 
-This portfolio showcases how I use data, reporting, and modern automation tools to help organizations improve visibility, streamline operations, and make better decisions.
+Business intelligence, reporting, and AI-enabled automation projects focused on turning complex data into clear decisions, scalable workflows, and measurable business value.
 
 ---
 
-## What I Do
+> [!IMPORTANT]
+> This portfolio highlights real-world BI, analytics, and automation work designed for executive visibility, KPI design, operational reporting, and AI-assisted process improvement.
 
-I build business intelligence solutions that turn complex, fragmented data into clear dashboards, scalable reporting workflows, and practical decision-support tools.
+## Overview
 
-My work focuses on:
-- Executive and operational dashboards
-- KPI design and performance reporting
-- SQL, Databricks, and data modeling
+I build analytics solutions that help organizations improve visibility, streamline reporting, and make better decisions.
+
+My work sits at the intersection of:
+- Business intelligence and dashboard design
+- KPI frameworks and performance reporting
+- Data modeling and reporting infrastructure
 - Reporting automation and workflow optimization
-- AI-assisted analytics and process improvement
+- AI-assisted analytics and decision support
 
 ---
 
-## Core Tools
+## Core Focus Areas
 
-**BI & Analytics:** Power BI, SQL, Excel, Tableau  
-**Data & Modeling:** Databricks, ETL, data modeling, KPI frameworks  
-**Automation & AI:** AI-assisted workflow development, prompt engineering, reporting automation  
-**Business Focus:** Executive reporting, operational analytics, decision support
+| Area | Focus |
+|---|---|
+| **Business Intelligence** | Executive dashboards, operational reporting, KPI design |
+| **Analytics Engineering** | SQL, Databricks, data modeling, reporting structure |
+| **Automation** | Reporting workflows, repeatable processes, efficiency gains |
+| **AI Enablement** | Prompt engineering, AI-assisted reporting, workflow acceleration |
+| **Decision Support** | Business-facing insights, stakeholder reporting, operational clarity |
 
 ---
+
+> [!NOTE]
+> This portfolio is designed for recruiters, hiring managers, and collaborators who want to quickly understand how I approach reporting, analytics, automation, and business problem-solving.
 
 ## Featured Projects
 
 ### 1. Executive Dashboard Case Study
-**Leadership-ready reporting for performance visibility and decision support**
+**Leadership-ready reporting for visibility, KPI tracking, and decision support**
 
-A case study showing how operational data can be transformed into clear KPIs, dashboard views, and executive-level reporting. This project highlights dashboard structure, business framing, KPI logic, and reporting design.
+A case study showing how fragmented operational data can be structured into clear dashboards, reporting logic, and executive-level decision support.
 
-**Highlights**
-- Designed dashboards for executive and operational visibility
-- Defined key performance indicators and reporting logic
-- Structured reporting for faster, more confident decision-making
-- Focused on clarity, usability, and business relevance
+**What this project demonstrates**
+- KPI design and business framing
+- Dashboard structure for leadership use
+- Reporting clarity and usability
+- Operational performance visibility
 
 ---
 
 ### 2. AI-Assisted BI Workflow
-**Using AI to accelerate dashboard development and reporting improvements**
+**A practical framework for accelerating report development and iteration with AI**
 
-A practical framework for using AI to support report development, DAX refinement, documentation, prototyping, and iterative improvement in BI workflows.
+This project demonstrates how AI can support dashboard prototyping, documentation, logic refinement, and repeatable BI workflow improvement.
 
-**Highlights**
-- Applied AI to accelerate report design and iteration
-- Improved documentation and workflow consistency
-- Supported faster dashboard prototyping and refinement
-- Combined technical execution with practical business use
+**What this project demonstrates**
+- AI-assisted dashboard development
+- Documentation and process standardization
+- Faster report iteration and refinement
+- Practical use of prompt engineering in analytics workflows
 
 ---
 
 ### 3. Reporting Automation Toolkit
-**Reusable assets for faster, cleaner, and more consistent reporting**
+**Reusable assets for reducing manual work and improving reporting consistency**
 
-A collection of automation-oriented scripts, templates, and workflow components that reduce repetitive work, standardize outputs, and improve reporting efficiency.
+A collection of automation-oriented scripts, templates, and workflow components for streamlining recurring reporting tasks and improving delivery speed.
 
-**Highlights**
-- Reduced manual reporting effort
-- Standardized recurring reporting tasks
-- Improved consistency across deliverables
-- Built reusable workflow components for scale
+**What this project demonstrates**
+- Workflow optimization
+- Reporting automation
+- Reusable process design
+- Scalable delivery practices
 
 ---
 
 ### 4. Customer Segmentation Analysis
-**Analytics case study for targeted strategy and customer insight**
+**An analytics case study for targeted strategy and customer insight**
 
-A segmentation-focused project using customer behavior and related data patterns to support more targeted decision-making, improved audience understanding, and stronger business strategy.
+A project focused on identifying meaningful customer patterns and translating them into practical business recommendations and targeted strategy.
 
-**Highlights**
-- Identified meaningful customer group patterns
-- Supported targeted strategy development
-- Connected analytics findings to business actions
-- Demonstrated practical insight generation from raw data
-
----
-
-## What Recruiters and Hiring Managers Will Find Here
-
-This portfolio is designed to show how I:
-- Translate business needs into reporting and analytics solutions
-- Build dashboards that support executive and operational decisions
-- Improve workflows through automation and scalable design
-- Use AI as a practical tool for reporting, analytics, and productivity
-- Communicate technical work in a business-friendly way
+**What this project demonstrates**
+- Analytical problem solving
+- Pattern identification and segmentation
+- Business-facing interpretation of results
+- Decision support through data storytelling
 
 ---
 
-## Current Focus
+## What This Portfolio Shows
 
-I’m currently focused on building and refining portfolio projects in:
-- Business intelligence and dashboard design
-- KPI frameworks and performance reporting
-- AI-assisted analytics workflows
+✅ Ability to translate business needs into analytics solutions  
+✅ Executive and operational reporting design  
+✅ KPI development and performance measurement  
+✅ Workflow improvement through automation  
+✅ Practical use of AI in reporting and analytics  
+✅ Clear communication between technical and business audiences  
+
+---
+
+## Current Direction
+
+I am currently building portfolio work centered on:
+- Operational performance dashboards
+- KPI and performance reporting
+- AI-assisted BI development workflows
 - Reporting automation and decision-support tools
 
 ---
+
+> [!TIP]
+> Where needed, projects may use sample, recreated, or masked data to protect confidentiality while still demonstrating structure, logic, and business value.
 
 ## Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jas0n-ch0i/)
 - 📧 [Email me](mailto:jchoi815@gmail.com)
-
----
-
-## Notes
-
-All projects in this portfolio are intended to demonstrate applied business intelligence, analytics, and AI-enabled workflow thinking. Where needed, examples may use sample, masked, or recreated data to protect confidentiality while still showing process, structure, and problem-solving approach.
