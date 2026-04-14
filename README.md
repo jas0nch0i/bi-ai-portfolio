@@ -45,7 +45,7 @@ My work sits at the intersection of:
 
 ## Featured Projects
 
-### 1. Executive Dashboard Case Study
+### [1. Executive Dashboard Case Study](https://github.com/jas0nch0i/executive-operations-dashboard-case-study)
 **Leadership-ready reporting for visibility, KPI tracking, and decision support**
 
 A case study showing how fragmented operational data can be structured into clear dashboards, reporting logic, and executive-level decision support.
